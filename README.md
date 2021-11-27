@@ -14,3 +14,9 @@ A apresentação final também encontra-se aqui salva em pdf.
 
 
 LInk da gravação: https://youtu.be/K6FY9DiaoOM
+
+
+Dashbords:
+
+- Estabelecimentos: https://datastudio.google.com/reporting/28b3126c-a9e7-4c77-a4e0-c50d20bb4ad6
+- APAC Brasil: https://datastudio.google.com/reporting/b8e10252-60c6-45e9-be3a-d0c7c7a869e6
