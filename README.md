@@ -20,3 +20,4 @@ Dashbords:
 
 - Estabelecimentos: https://datastudio.google.com/reporting/28b3126c-a9e7-4c77-a4e0-c50d20bb4ad6
 - APAC Brasil: https://datastudio.google.com/reporting/b8e10252-60c6-45e9-be3a-d0c7c7a869e6
+- SIH Brasil: https://datastudio.google.com/reporting/1d806f59-cac2-4e9c-8306-d79bbb2f522f
